@@ -29,6 +29,8 @@
   img {
     display: block;
     margin: 0 auto;
+    width: 50%;
+    height: auto;
   }
   
   p,
@@ -53,4 +55,9 @@
     li {
       list-style: none;
     }
+  }
+
+  .svg{
+    width: 10%;
+    height: auto;
   }
