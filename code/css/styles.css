@@ -7,9 +7,10 @@
     padding: 1rem;
     max-width: 800px;
     min-height: 100vh;
-    border: medium solid red;
+    border: medium solid blue;
     text-align: center;
     font-family: system-ui, sans-serif;
+    background-color: antiquewhite;
   }
   
   a {
@@ -42,7 +43,7 @@
     width: 100%;
     max-width: 480px;
     margin: 0 auto;
-    border: thin solid red;
+    border: thin solid blue;
   
     ul {
       margin: 0;
@@ -60,4 +61,5 @@
   .svg{
     width: 10%;
     height: auto;
+    padding-top: 5px;
   }
