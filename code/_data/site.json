@@ -1,5 +1,5 @@
 {
-    "message": "Hola Mundo Eleventy 🦡🎈",
+    "message": "Aprendiendo el poder de Eleventy 🦡🎈",
     "linksDoc": [
       {
         "text": "Documentación de <i>11ty</i>",
@@ -12,10 +12,6 @@
       {
         "text": "Documentación de <i>NunJucks</i>",
         "url": "https://mozilla.github.io/nunjucks/"
-      },
-      {
-        "text": "Curso de <i>11ty</i> de @jonmircha",
-        "url": "https://www.youtube.com/watch?v=yCF9l4_E5rI"
-      }
+      }      
     ]
   }
