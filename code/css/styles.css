@@ -35,12 +35,12 @@
   }
 
   p{
-    font-size: x-large;
-    margin-left: 5px;
-    margin-right: 5px;    
+    font-size: x-large;    
+    text-align: justify;  
+    margin: 0 5px 20px 5px;
   }
   
-  p,
+  
   li {
     text-align: left;
   }
